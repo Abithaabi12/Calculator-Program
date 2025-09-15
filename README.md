@@ -1,4 +1,4 @@
-# Java Calculator
+
 A simple console-based calculator built in Java that performs basic arithmetic operations such as addition, subtraction, multiplication, and division using a switch-case structure.
 
 ## ✨ Features
